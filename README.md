@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @ghadagepradip
-- 👀 I’m interested in Frontend development,Android application development and Backend development.
-- 🌱 I’m currently learning Java script,MERN stack .
-- 💞️ I’m looking to collaborate on projects related to web development.
+- 👀 I’m certified Java FullStack Developer.
+- 🌱 I’m currently learning AI and ML .
+- 💞️ I’m looking to collaborate on projects related to web development and Java FullStack Developement.
 - 📫 How to reach me Mail me at ghadagepradip2001@gmail.com
 - 😄 Pronouns: Sir
-- ⚡ Fun fact: Codes for fun
+- ⚡ Fun fact: Love kids.
 
 <!---
 ghadagepradip/ghadagepradip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
